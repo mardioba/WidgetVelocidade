@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Widget Velocímetro</string>
+    <string name="speedometer_widget">Velocímetro Widget</string>
+    <string name="start_widget">Iniciar Widget de Velocímetro</string>
+    <string name="widget_description">Um widget flutuante que mostra sua velocidade em tempo real usando GPS</string>
+    <string name="widget_instructions">O widget aparecerá como uma janela flutuante que você pode arrastar pela tela</string>
+    <string name="location_permission_required">Permissões de localização são necessárias</string>
+    <string name="overlay_permission_required">Permissão de overlay é necessária</string>
+    <string name="widget_started">Widget de velocímetro iniciado!</string>
+    <string name="close">Fechar</string>
+    <string name="kmh">km/h</string>
+    <string name="speedometer_active">Widget de velocímetro ativo</string>
+</resources>
