@@ -10,4 +10,6 @@
     <string name="close">Fechar</string>
     <string name="kmh">km/h</string>
     <string name="speedometer_active">Widget de velocímetro ativo</string>
+    <string name="gps_ok">GPS OK</string>
+    <string name="no_gps">SEM GPS</string>
 </resources>
